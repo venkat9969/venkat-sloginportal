@@ -23,7 +23,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(project.html.jpg),url(leaf_01.png);
+    background-image: url(trees.png),url(leaf_01.png);
    
     background-size: cover;
     background-position: center;
